@@ -1,0 +1,9 @@
+Usuarios de administracion
+yindra
+Contraseña
+yindra9
+Usuario de estudiante
+Luis
+Contraseña
+Luis9
+El programa inicia en main.py
